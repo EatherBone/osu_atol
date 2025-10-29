@@ -1,4 +1,9 @@
 ![Ха ха asol](https://i.ibb.co/wZSRtB7k/asol.png)
+
+[![osu! profile](https://img.shields.io/badge/osu!-eatherbone-ff66aa?logo=osu)](https://osu.ppy.sh/users/8335901)
+[![Telegram](https://img.shields.io/badge/Telegram-@eatherboner-2CA5E0?logo=telegram)](https://t.me/eatherboner)
+<br>ДАТЬ МУТУАЛ | ЗАБУСТИТЬ
+
 # Печатаем инфо из osu! на ККТ Атол
 
 Небольшой Python-скрипт, который соединяет [osu!](https://osu.ppy.sh/home) с кассовыми аппаратами (ККТ) АТОЛ. Скрипт в реальном времени отслеживает игровой процесс через [tosu!](https://github.com/tosuapp/tosu) и автоматически печатает чек с результатами после завершения каждой карты.
